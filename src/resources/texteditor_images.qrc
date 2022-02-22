@@ -1,0 +1,7 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="icons">
+        <file alias="load_signal">add_file.svg</file>
+        <file alias="logo">logo.png</file>
+    </qresource>
+</RCC>

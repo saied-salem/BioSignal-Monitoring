@@ -1,0 +1,7 @@
+QWidget#centralwidget {
+    background-color: red;
+
+}
+QPushButton#pushButton {
+    color: green;
+}

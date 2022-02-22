@@ -1,0 +1,6 @@
+.venv
+.vscode
+.idea
+.token
+trials
+src/__pycache__/
